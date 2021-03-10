@@ -1,0 +1,29 @@
+.home-banner h1 {
+  margin-bottom: 25px;
+  color: pink;
+  letter-spacing: 0.5px;
+  font-weight: 800;
+  text-align: center;
+}
+
+.home-banner h1.cd-headline {
+  font-size: 40px;
+  font-weight: 800;
+}
+
+.home-banner h1.cd-headline span {
+  padding: 0;
+}
+
+.home-banner h1.cd-headline .cd-words-wrapper {
+  text-align: center;
+}
+
+.home-banner h1.cd-headline .cd-words-wrapper:after {
+  background-color: transparent;
+}
+
+body
+{
+  background-color: red;
+}
